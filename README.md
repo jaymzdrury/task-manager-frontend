@@ -1,6 +1,6 @@
-# Task Manager - Create, Read, Search, Update, Delete, Delete All
+# Task Manager - Next, ShadCn, Tailwind, React Email, Llama 3, Node, Express, Mongo, Redis, Jest, Sentry, Husky
 
-**`Next, ShadCn, Tailwind, React Email, Llama 3, Node, Express, Mongo, Redis, Jest, Sentry, Husky`**
+**`Create, Read, Search, Edit, Delete, Delete All`**
 
 <img src="./public/light.webp" alt="Light-Mode" width="350" />
 
@@ -12,22 +12,20 @@
 
 Special Features:
 
----
+-Update task progress or user roles in kanban style
 
-Update task progress or user roles in kanban style
+-Add/remove multiple users to designated tasks
 
-Add/remove multiple users to designated tasks
+-Redis caching for high performance reads
 
-Redis caching for high performance reads
+-Owner autmoatically emailed when tasks are complete
 
-Owner autmoatically emailed when tasks are complete
+-Change password link via email
 
-Change password link via email
+-Completed tasks over a month-old automatically deleted
 
-Completed tasks over a month-old automatically deleted
+-User clock-in can keep running when leaving site
 
-User clock-in can keep running when leaving site
+-AI Assitant gives suggestions in New York accent
 
-AI Assitant gives suggestions in New York accent
-
-Languages in English & Chinese
+-Languages in English & Chinese
