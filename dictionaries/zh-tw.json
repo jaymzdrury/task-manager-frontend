@@ -1,0 +1,65 @@
+{
+  "column": {
+    "toDo": "去做",
+    "progress": "进行中",
+    "done": "完毕",
+    "admin": "行政",
+    "user": "用户",
+    "auth": "授权"
+  },
+  "search": "搜索...",
+  "logout": "登出",
+  "settings": "设置",
+  "delete": "删除",
+  "searchParams": {
+    "placeholder": "选择周",
+    "current": "本星期",
+    "previous": "以前的"
+  },
+  "drawer": {
+    "title": "任务亲",
+    "tasks": "任务",
+    "users": "用户"
+  },
+  "addTask": {
+    "title": "添加任务",
+    "description": "添加任务出现在",
+    "form": {
+      "title": "标题",
+      "description": "描述",
+      "select": "选择人"
+    }
+  },
+  "deleteTask": {
+    "deleteAll": "删除全部",
+    "invalid": "不任务"
+  },
+  "clockIn": {
+    "title": "编辑钟在",
+    "description": "改变全部的时间钟在"
+  },
+  "login": {
+    "login": "登录",
+    "register": "登记",
+    "description": "欢迎到任务经理",
+    "email": "电子邮件",
+    "password": "密码",
+    "forgotPassword": "忘记密码",
+    "editPassword": "发送密码",
+    "newPassword": "新的密码",
+    "confirmpassword": "确认密码",
+    "name": "姓名",
+    "loginLink": "已经有帐户",
+    "registerLink": "不是挂号的"
+  },
+  "removeTask": {
+    "title": "消除任务",
+    "description": "消除这任务",
+    "remove": "是的",
+    "cancel": "不"
+  },
+  "removeUser": {
+    "title": "是的用户",
+    "description": "是的 从这任务"
+  }
+}

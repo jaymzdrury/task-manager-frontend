@@ -1,0 +1,65 @@
+{
+  "column": {
+    "toDo": "ToDo",
+    "progress": "In Progress",
+    "done": "Done",
+    "admin": "Admin",
+    "user": "User",
+    "auth": "Auth"
+  },
+  "search": "Search...",
+  "logout": "Logout",
+  "settings": "Settings",
+  "delete": "Delete",
+  "searchParams": {
+    "placeholder": "Select Week",
+    "current": "This Week",
+    "previous": "Previous"
+  },
+  "drawer": {
+    "title": "Task Pro",
+    "tasks": "Tasks",
+    "users": "Users"
+  },
+  "addTask": {
+    "title": "Add Task",
+    "description": "Added tasks appear in",
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "select": "Select Person"
+    }
+  },
+  "deleteTask": {
+    "deleteAll": "Delete All",
+    "invalid": "No Tasks"
+  },
+  "clockIn": {
+    "title": "Edit Clock In",
+    "description": "Change total time clocked in"
+  },
+  "login": {
+    "login": "Log In",
+    "register": "Register",
+    "description": "Welcome to Task Manager",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password",
+    "editPassword": "Send",
+    "newPassword": "New Password",
+    "confirmpassword": "Confirm Password",
+    "name": "Name",
+    "loginLink": "Already Have an Account",
+    "registerLink": "Not Registered"
+  },
+  "removeTask": {
+    "title": "Remove Task",
+    "description": "Remove this task",
+    "remove": "Yes",
+    "cancel": "No"
+  },
+  "removeUser": {
+    "title": "Remove User",
+    "description": "Remove from this task"
+  }
+}

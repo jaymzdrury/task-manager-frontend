@@ -1,0 +1,33 @@
+.loadingClass {
+  @apply opacity-0;
+}
+.center {
+  @apply flex justify-center;
+}
+.between {
+  @apply flex justify-between items-center;
+}
+.start {
+  @apply flex items-center;
+}
+.mainLayout {
+  @apply flex xl:justify-center p-6 space-x-6 overflow-x-scroll;
+}
+.columnContainer {
+  @apply bg-muted p-6 rounded-lg;
+}
+.columnArea {
+  @apply h-[600px] w-[350px];
+}
+.clockInStyle {
+  @apply text-background p-1 rounded-full cursor-pointer;
+}
+.ellipsis {
+  @apply overflow-hidden text-nowrap text-ellipsis select-none;
+}
+.userButton {
+  @apply bg-user hover:dark:bg-[#5ab3d6cc] hover:bg-[#1d4ed8cc] transition-colors text-white w-20;
+}
+.searchInput {
+  @apply w-full rounded-lg bg-background pl-10 border-none;
+}
