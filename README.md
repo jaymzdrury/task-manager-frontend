@@ -2,11 +2,9 @@
 
 ## Next, ShadCn, Tailwind, React Email, Llama 3, Node, Express, Mongo, Redis, Jest, Sentry, Husky
 
-<div style={{ display: "flex"}}>
-  <img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/light.webp" alt="Light-Mode" width="450" />
+<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/light.webp" alt="Light-Mode" width="900" />
 
-<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/dark.webp" alt="Dark-Mode" width="450" />
-</div>
+<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/dark.webp" alt="Dark-Mode" width=900" />
 
 <img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/scores.webp" alt="Scores" width="900" />
 
