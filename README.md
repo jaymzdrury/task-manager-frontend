@@ -4,7 +4,7 @@
 
 <img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/light.webp" alt="Light-Mode" width="900" />
 
-<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/dark.webp" alt="Dark-Mode" width=900" />
+<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/dark.webp" alt="Dark-Mode" width="900" />
 
 <img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/scores.webp" alt="Scores" width="900" />
 
