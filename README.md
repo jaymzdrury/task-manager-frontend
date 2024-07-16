@@ -1,31 +1,53 @@
-# Task Manager - Next, ShadCn, Tailwind, React Email, Llama 3, Node, Express, Mongo, Redis, Jest, Sentry, Husky
+# Task Manager
 
-**`Create, Read, Search, Edit, Delete, Delete All`**
+## Next, ShadCn, Tailwind, React Email, Llama 3, Node, Express, Mongo, Redis, Jest, Sentry, Husky
 
-<img src="./public/light.webp" alt="Light-Mode" width="350" />
+<div style={{ display: "flex"}}>
+  <img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/light.webp" alt="Light-Mode" width="450" />
 
-<img src="./public/dark.webp" alt="Dark-Mode" width="350" />
+<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/dark.webp" alt="Dark-Mode" width="450" />
+</div>
 
-<img src="./public/scores.webp" alt="Scores" width="350" />
+<img src="https://github.com/jaymzdrury/task-manager-frontend/blob/master/public/scores.webp" alt="Scores" width="900" />
 
 ---
 
-Special Features:
+## Getting Started
 
--Update task progress or user roles in kanban style
+---
 
--Add/remove multiple users to designated tasks
+```js
+KEY=secret-key
+URI=[MONGO CONNECTION HERE]
+ORIGIN=http://localhost:5000
+AI=[LLAMA CONNECTION HERE]
+EMAIL=[MONGO USER EMAIL HERE]
 
--Redis caching for high performance reads
+//for testing
+TASKID=[MONGO TASK ID HERE]
+USERID=[MONGO USER ID HERE]
+ACCESSTOKEN=[MONGO ACCESSTOKEN HERE]
+REFRESHTOKEN=[MONGO REFRESHTOKEN HERE]
+```
 
--Owner autmoatically emailed when tasks are complete
+### Special Features:
 
--Change password link via email
+---
 
--Completed tasks over a month-old automatically deleted
+- `Update tasks or users in kanban style`
 
--User clock-in can keep running when leaving site
+- `Add/remove users to tasks`
 
--AI Assitant gives suggestions in New York accent
+- `Redis caching for high performance reads`
 
--Languages in English & Chinese
+- `Automated emails when tasks are complete`
+
+- `Reset password email verification & link`
+
+- `Chron job cleanups for old tasks`
+
+- `User clock-in runs when leaving site`
+
+- `AI suggestions for tasks`
+
+- `Languages in English & Chinese`
