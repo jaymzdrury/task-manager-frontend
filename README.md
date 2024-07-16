@@ -15,17 +15,15 @@
 ---
 
 ```js
-KEY=secret-key
-URI=[MONGO CONNECTION HERE]
-ORIGIN=http://localhost:5000
-AI=[LLAMA CONNECTION HERE]
-EMAIL=[MONGO USER EMAIL HERE]
-
-//for testing
-TASKID=[MONGO TASK ID HERE]
-USERID=[MONGO USER ID HERE]
-ACCESSTOKEN=[MONGO ACCESSTOKEN HERE]
-REFRESHTOKEN=[MONGO REFRESHTOKEN HERE]
+SERVER_USER=http://localhost:5000/user
+SERVER_PASSWORD=http://localhost:5000/user/password
+SERVER_TASKS=http://localhost:5000/tasks
+SERVER_AI=http://localhost:5000/ai
+SERVER_CACHE=http://localhost:5000/cache
+CLIENT=http://localhost:3000
+TWITTER_URL=https://pbs.twimg.com/profile_images/1683501992314798080/xl1POYLw_400x400.jpg
+RESEND=[RESEND KEY HERE]
+OWNER_EMAIL=[YOUR RESEND EMAIL HERE]
 ```
 
 ### Special Features:
